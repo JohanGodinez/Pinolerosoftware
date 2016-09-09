@@ -15,6 +15,6 @@
 			<li class="item">Docentes</li>
 		</ul>
 	</nav>
-	<h1>Felito chupa el perro</h1>
+	<h1>Programando tus ideas...</h1>
 </body>
 </html>
