@@ -6,7 +6,7 @@
 </head>
 <body>
 	<header class="header">
-		<h1>Educa</h1>
+		<h1>PinoleroSoftware</h1>
 	</header>
 	<nav class="menu">
 		<ul>
@@ -15,6 +15,6 @@
 			<li class="item">Docentes</li>
 		</ul>
 	</nav>
-	<h1>Maberiht Johan Godinez</h1>
+	<h1>Felito chupa el perro</h1>
 </body>
 </html>
