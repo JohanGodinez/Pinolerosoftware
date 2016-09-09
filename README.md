@@ -1,3 +1,2 @@
 # PinoleroSoftware
 Programando tus ideas...
-http://pinolero.herokuapp.com/Index.php
