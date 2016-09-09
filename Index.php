@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Pagina con Less</title>
+	<link href='https://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="Css/stilo.css">
 </head>
 <body>
