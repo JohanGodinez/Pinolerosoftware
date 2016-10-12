@@ -7,7 +7,7 @@
 </head>
 <body>
 	<header class="header">
-		<h1>PinoleroSoftware</h1>
+		<h1>Eduport</h1>
 	</header>
 	<nav class="menu">
 		<ul>
