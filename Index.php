@@ -16,6 +16,6 @@
 			<li class="item">Docentes</li>
 		</ul>
 	</nav>
-	<h1>Programando tus ideas...</h1>
+	<h1>Que paso Weys...</h1>
 </body>
 </html>
