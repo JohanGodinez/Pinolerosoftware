@@ -16,6 +16,7 @@
 			<li class="item">Docentes</li>
 		</ul>
 	</nav>
-	<h1>Que paso Weys...</h1>
+	<br/>
+	<h1></h1>
 </body>
 </html>
